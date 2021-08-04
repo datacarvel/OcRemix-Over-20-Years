@@ -22,7 +22,7 @@ Made with RStudio, Shiny, Plotly and the Tidyverse.
 
 # Methodology
 
-The web scraping operation was about grabbing the data of all individually-promoted tracks on https://ocremix.org - in other words, when a single track was the object of a individual blog post. Here is an example of a given remix (screenshot with underlined/circled elements below) : https://ocremix.org/remix/OCR02202
+The web scraping operation was about grabbing the data of all individually-promoted tracks on https://ocremix.org - in other words, when a single track was the object of a individual blog post. Here is an example of a given remix (screenshot with underlined/circled elements below). Actually, I love this one so much, it's been my ringtone for years now : https://ocremix.org/remix/OCR02202
 
 ![](https://github.com/datacarvel/OcRemix-Over-20-Years/blob/main/example.PNG)
 
