@@ -30,7 +30,7 @@ I was interested in the remixed track title, the artist, the game title, the mus
 
 This analysis was interested especially in the music genres. Not every track had a music genre tag attached to them, unfortunately. Those without anyone were excluded from the visualization and tool you saw above.
 
-Also, OverClocked Remix has produced full length albums, sometimes with dozens of tracks, which were not all necessarily individidually-promoted in addition to their presence in an album (but a lot did). This is just another thing to keep in mind. At the time of writing, they had produced a whopping 140 albums (they are all here https://ocremix.org/albums/. 
+Also, OverClocked Remix has produced full length albums, sometimes with dozens of tracks, which were not all necessarily individidually-promoted in addition to their presence in an album (but a lot did). This is just another thing to keep in mind. At the time of writing, they had produced a whopping 140 albums (they are all here https://ocremix.org/albums/). 
 
 So out of 4 056 singles, some 2 769 had at least one music genre tag (68 %). So what you see in the visualization and the interactive app are those 2 769 tracks. 
 
