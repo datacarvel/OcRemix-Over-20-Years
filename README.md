@@ -4,7 +4,7 @@ See the interactive tool here (Shiny app): https://steve-carufel.shinyapps.io/oc
 
 Read my blog post here : https://scarufel.com/2021/08/03/dataviz-interactive-vgm-overclocked-remix/
 
-A music genre timeline analysis and exploration : I web-scraped the ocremix.org website, where a huge community of producers and musicians have been remixing or covering thousands of video games music tracks for over 20 years.
+A music genre timeline analysis and exploration : I web-scraped the OverClocked Remix website https://ocremix.org, where a huge community of producers and musicians have been remixing or covering thousands of video games music tracks for over 20 years.
 
 First, a static dotted time series. Every dot is a single track, sorted by music genre. As you can see, rock isn't dead and never has been !
 
