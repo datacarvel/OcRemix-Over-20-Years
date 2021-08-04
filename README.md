@@ -32,6 +32,6 @@ This analysis was interested especially in the music genres. Not every track had
 
 Also, OverClocked Remix has produced full length albums, sometimes with dozens of tracks, which were not all necessarily individidually-promoted in addition to their presence in an album (but a lot did). This is just another thing to keep in mind. At the time of writing, they had produced a whopping 140 albums. 
 
-So out of 4 056 singles, some 2 769 had at least one music genre tag (68 %). So what you see in the visualization and the interactive app are those 2 766 tracks. 
+So out of 4 056 singles, some 2 769 had at least one music genre tag (68 %). So what you see in the visualization and the interactive app are those 2 769 tracks. 
 
 But one song can have more than one music genre tag. In that case, it was duplicated on the dotted time series visualization and app for each genre tag (but not in the data table within the interactive app). 
