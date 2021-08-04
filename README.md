@@ -1,4 +1,9 @@
-# OcRemix-Over-20-Years
+# OcRemix.org-20-Years-of-remixed-video-games-music
+
+See the tool here : https://steve-carufel.shinyapps.io/ocremix-music-genres/
+
+Read my blog post here : https://scarufel.com/2021/08/03/dataviz-interactive-vgm-overclocked-remix/
+
 A music genre timeline analysis and exploration : I web-scraped the ocremix.org website, where a huge community of producers and musicians have been remixing or covering thousands of video games music tracks for over 20 years.
 
 First, a static dotted time series. Every dot is a single track, sorted by music genre. As you can see, rock isn't dead and never has been !
@@ -12,9 +17,5 @@ Second (and third), an R Shiny app making it possible to search for specific gam
 That was for the first tab. The second tab simply shows all tracks from all games at the same time, like with the static chart above, but in an interactive way : hover to reveal which tracks are hiding behind the dots. 
 
 ![](https://github.com/datacarvel/OcRemix-Over-20-Years/blob/main/shiny-app-screenshot-ocremix-2.png)
-
-See the tool here : https://steve-carufel.shinyapps.io/ocremix-music-genres/
-
-Read my blog post here : https://scarufel.com/2021/08/03/dataviz-interactive-vgm-overclocked-remix/
 
 Made with RStudio, Shiny, Plotly and the Tidyverse. 
