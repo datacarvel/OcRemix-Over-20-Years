@@ -1,6 +1,6 @@
 # OcRemix.org-20-Years-of-remixed-video-games-music
 
-See the tool here : https://steve-carufel.shinyapps.io/ocremix-music-genres/
+See the interactive tool here (Shiny app): https://steve-carufel.shinyapps.io/ocremix-music-genres/
 
 Read my blog post here : https://scarufel.com/2021/08/03/dataviz-interactive-vgm-overclocked-remix/
 
