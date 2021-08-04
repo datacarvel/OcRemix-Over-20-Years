@@ -19,3 +19,19 @@ That was for the first tab. The second tab simply shows all tracks from all game
 ![](https://github.com/datacarvel/OcRemix-Over-20-Years/blob/main/shiny-app-screenshot-ocremix-2.png)
 
 Made with RStudio, Shiny, Plotly and the Tidyverse. 
+
+# Methodology
+
+The web scraping operation was about grabbing the data of all individually-promoted tracks on https://ocremix.org - in other words, when a single track was the object of a individual blog post. Here is an example of a given remix (screenshot with underlined/circled elements below) : https://ocremix.org/remix/OCR02202
+
+![](https://github.com/datacarvel/OcRemix-Over-20-Years/blob/main/example.png)
+
+I was interested in the remixed track title, the artist, the game title, the music genre and the instruments (though this latter I didn't use). 
+
+This analysis was interested especially in the music genres. Not every track had a music genre tag attached to them, unfortunately. Those without anyone were excluded from the visualization and tool you saw above.
+
+Also, OverClocked Remix produced full length albums, sometimes with dozens of tracks, which were not all necessarily individidually-promoted in addition to their presence in an album (but a lot did). This is just another thing to keep in mind. At the time of writing, they had produced a whopping 140 albums. 
+
+So out of 4 056 singles, some 2 769 had at least one music genre tag (68 %). So what you see in the visualization and the interactive app are these 2 766 tracks. 
+
+But one song can have more than one music genre tag. In that case, it was duplicated on the dotted time series visualization and app for each genre tag (but not in the data table within the interactive app). 
